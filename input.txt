@@ -1,0 +1,5 @@
+3 7
+Hallo!
+ahmed
+25
+Redircting to a file using normal cout operator(<<)
